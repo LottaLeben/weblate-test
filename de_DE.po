@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: canvayo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-06 08:34+0000\n"
+"PO-Revision-Date: 2019-05-06 08:39+0000\n"
+"Last-Translator: lotta <ps@lottaleben.de>\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-4.9.8"
+
+#: src/Theme/PostType.php:31 src/Theme/PostType.php:32
+#: src/Theme/PostType.php:33 src/Theme/PostType.php:34
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: src/Theme/PostType.php:35
+msgid "Add New"
+msgstr ""
+
+#: src/Theme/PostType.php:36
+#, php-format
+msgid "Add New %1$s"
+msgstr ""
+
+#: src/Theme/PostType.php:40
+#, php-format
+msgid "All %1$s"
+msgstr ""
+
+#: archive.php:43
+msgid "All categories"
+msgstr "Alle Kategorien"
+
+#: search.php:26 search.php:55
+msgid "All content types"
+msgstr "Alle Inhaltstypen"
+
+#: footer.php:37
+msgid "All rights reserved"
+msgstr ""
+
+#: src/Theme/Admin.php:156
+msgid "Anchor"
+msgstr ""
+
+#: src/Theme/Setup.php:89
+msgid "Appears in the footer on the left"
+msgstr ""
+
+#: src/Theme/Setup.php:107
+msgid "Appears in the footer on the right side"
+msgstr ""
+
+#: template-part/pagination.php:13
+msgid "Back"
+msgstr "Zurück"
+
+#. Name of the theme
+msgid "canvayo"
+msgstr ""
+
+#: single.php:54
+msgid "Categories:"
+msgstr "Kategorien:"
+
+#: template-part/header/search-bar.php:10
+msgid "Close"
+msgstr "Schließen"
+
+#: src/CustomField/Setting.php:20
+msgid "Data protection"
+msgstr ""
+
+#: src/CustomField/Setting.php:19
+msgid "Data Protection Settings"
+msgstr ""
+
+#: src/Theme/Setup.php:98
+msgid "Displayed in the middle of the footer"
+msgstr ""
+
+#: src/Theme/PostType.php:38
+#, php-format
+msgid "Edit %1$s"
+msgstr ""
+
+#: 404.php:20
+msgid "Either you search for similar content in the menu search input field."
+msgstr ""
+
+#: single.php:79
+msgid "Facebook"
+msgstr ""
+
+#. Name of the template
+msgid "Flexible Content"
+msgstr ""
+
+#: src/Theme/Setup.php:78
+msgid "Footer menu"
+msgstr ""
+
+#: src/Theme/Setup.php:77
+msgid "Header menu"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.lottaleben.de/"
+msgstr ""
+
+#: 404.php:23
+msgid "If you need further help, you can also contact us."
+msgstr ""
+
+#. Author of the theme
+msgid "LottaLeben Media GmbH"
+msgstr ""
+
+#: src/Theme/PostType.php:37
+#, php-format
+msgid "New %1$s"
+msgstr ""
+
+#: template-part/pagination.php:14
+msgid "Next"
+msgstr "Weiter"
+
+#: src/Theme/PostType.php:44
+#, php-format
+msgid "No %1$s found in trash."
+msgstr ""
+
+#: src/Theme/PostType.php:43
+#, php-format
+msgid "No %1$s found."
+msgstr ""
+
+#: template-part/header/menu.php:74
+msgid "Open dropdown"
+msgstr "Dropdown öffnen"
+
+#: 404.php:21
+msgid "Or you can click on the logo and re-enter over our homepage."
+msgstr ""
+
+#: template-part/pagination.php:15
+msgid "Page"
+msgstr "Seite"
+
+#: template-part/pagination.php:21
+msgid "Page navigation"
+msgstr "Seitennavigation"
+
+#: src/Theme/PostType.php:42
+#, php-format
+msgid "Parent %1$s:"
+msgstr ""
+
+#: single.php:93
+msgid "Pinterest"
+msgstr ""
+
+#: single.php:133 template-part/teaser/post.php:63
+msgid "Published on"
+msgstr ""
+
+#: template-part/teaser/post.php:57 template-part/teaser/search.php:26
+msgid "Read more"
+msgstr "Weiterlesen"
+
+#: template-part/teaser/post.php:56 template-part/teaser/search.php:25
+msgid "Read more about"
+msgstr "Mehr erfahren über"
+
+#: search.php:45
+msgid "result"
+msgid_plural "results"
+msgstr[0] "Ergebnis"
+msgstr[1] "Ergebnisse"
+
+#: search.php:82
+msgid "Results for"
+msgstr "Ergebnisse für"
+
+#: template-part/header/search-bar.php:5
+#: template-part/header/item/search.php:17
+msgid "Search"
+msgstr "Suchen"
+
+#: src/Theme/PostType.php:41
+#, php-format
+msgid "Search %1$s"
+msgstr ""
+
+#: archive.php:23 home.php:23
+msgid "Select a category"
+msgstr "Kategorie auswählen"
+
+#: search.php:25 search.php:33
+msgid "Select a content type"
+msgstr "Inhaltstyp auswählen"
+
+#: single.php:75
+msgid "Social buttons"
+msgstr "Social Buttons"
+
+#: 404.php:14
+msgid "Sorry, an error has occurred!"
+msgstr ""
+
+#: template-part/header/menu.php:120
+msgid "Switch navigation"
+msgstr "Navigation umschalten"
+
+#: 404.php:17
+msgid "The page does not exist anymore, or something went wrong with the link."
+msgstr ""
+
+#: src/CustomField/Setting.php:11 src/CustomField/Setting.php:12
+msgid "Theme settings"
+msgstr ""
+
+#: single.php:67 template-part/teaser/post.php:23
+#: template-part/teaser/post.php:46 template-part/teaser/search.php:15
+msgid "To"
+msgstr "Zu"
+
+#: footer.php:45
+msgid "Top"
+msgstr "Nach Oben"
+
+#: single.php:86
+msgid "Twitter"
+msgstr ""
+
+#: src/Theme/PostType.php:39
+#, php-format
+msgid "View %1$s"
+msgstr ""
+
+#: 404.php:18
+msgid "What should I do now?"
+msgstr ""
+
+#. Description of the theme
+msgid "Wordpress theme based on bootstrap."
+msgstr ""
+
+#: search.php:45
+msgid "Your search returned"
+msgstr "Ihre Suche ergab"
